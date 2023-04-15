@@ -1,0 +1,27 @@
+.editor {
+  border-radius: 1px solid;
+}
+
+.ck.ck-editor__main>.ck-editor__editable {
+  height: 550px;
+}
+
+.saveBtn {
+  float: right;
+  margin: 10px;
+  color: blue;
+}
+
+.linksDisplay {
+    margin: 10px;
+    padding-left: 50px;
+    border-bottom: 1px solid blue;
+}
+
+.createTitles {
+  padding: 20px;
+}
+
+.selectdropdown {
+  width: 50px;
+}

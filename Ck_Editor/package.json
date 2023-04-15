@@ -1,0 +1,82 @@
+{
+  "name": "doc_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^36.0.1",
+    "@ckeditor/ckeditor5-autoformat": "^36.0.1",
+    "@ckeditor/ckeditor5-basic-styles": "^36.0.1",
+    "@ckeditor/ckeditor5-block-quote": "^36.0.1",
+    "@ckeditor/ckeditor5-build-classic": "^36.0.1",
+    "@ckeditor/ckeditor5-build-inline": "^36.0.1",
+    "@ckeditor/ckeditor5-ckbox": "^36.0.1",
+    "@ckeditor/ckeditor5-ckfinder": "^36.0.1",
+    "@ckeditor/ckeditor5-cloud-services": "^36.0.1",
+    "@ckeditor/ckeditor5-code-block": "^36.0.1",
+    "@ckeditor/ckeditor5-core": "^36.0.1",
+    "@ckeditor/ckeditor5-dev-utils": "^36.0.1",
+    "@ckeditor/ckeditor5-editor-classic": "^36.0.1",
+    "@ckeditor/ckeditor5-essentials": "^36.0.1",
+    "@ckeditor/ckeditor5-export-pdf": "^36.0.1",
+    "@ckeditor/ckeditor5-export-word": "^36.0.1",
+    "@ckeditor/ckeditor5-find-and-replace": "^36.0.1",
+    "@ckeditor/ckeditor5-font": "^36.0.1",
+    "@ckeditor/ckeditor5-heading": "^36.0.1",
+    "@ckeditor/ckeditor5-highlight": "^36.0.1",
+    "@ckeditor/ckeditor5-horizontal-line": "^36.0.1",
+    "@ckeditor/ckeditor5-html-embed": "^36.0.1",
+    "@ckeditor/ckeditor5-image": "^36.0.1",
+    "@ckeditor/ckeditor5-import-word": "^37.0.1",
+    "@ckeditor/ckeditor5-indent": "^36.0.1",
+    "@ckeditor/ckeditor5-language": "^36.0.1",
+    "@ckeditor/ckeditor5-link": "^36.0.1",
+    "@ckeditor/ckeditor5-list": "^36.0.1",
+    "@ckeditor/ckeditor5-media-embed": "^36.0.1",
+    "@ckeditor/ckeditor5-mention": "^36.0.1",
+    "@ckeditor/ckeditor5-page-break": "^36.0.1",
+    "@ckeditor/ckeditor5-paste-from-office": "^36.0.1",
+    "@ckeditor/ckeditor5-react": "^5.1.0",
+    "@ckeditor/ckeditor5-remove-format": "^36.0.1",
+    "@ckeditor/ckeditor5-source-editing": "^36.0.1",
+    "@ckeditor/ckeditor5-special-characters": "^36.0.1",
+    "@ckeditor/ckeditor5-table": "^36.0.1",
+    "@ckeditor/ckeditor5-theme-lark": "^36.0.1",
+    "@ckeditor/ckeditor5-typing": "^36.0.1",
+    "@ckeditor/ckeditor5-word-count": "^36.0.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@webspellchecker/wproofreader-ckeditor5": "^2.2.0",
+    "ckeditor5": "^36.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-edit-text": "^5.1.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
